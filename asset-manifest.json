@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a9399812.css",
+    "main.js": "/static/js/main.e0cff131.js",
+    "static/js/787.e158f0ac.chunk.js": "/static/js/787.e158f0ac.chunk.js",
+    "static/media/video1.mp4": "/static/media/video1.5bbfd6e1fabdde883e87.mp4",
+    "static/media/homepage_image_2.png": "/static/media/homepage_image_2.92abce1c534672c34606.png",
+    "static/media/services_banner.png": "/static/media/services_banner.2e9b5af3f9ed75519e2d.png",
+    "static/media/homepage_image_1.png": "/static/media/homepage_image_1.9930fec2b9d0db013f48.png",
+    "static/media/about_us.png": "/static/media/about_us.4e12b181bc26808180f2.png",
+    "static/media/aboutus_banner.png": "/static/media/aboutus_banner.4def5450dd335487937b.png",
+    "static/media/aboutus_photo_1.png": "/static/media/aboutus_photo_1.93452a82e3a99366f940.png",
+    "static/media/contactus_banner.png": "/static/media/contactus_banner.87735ec01e26f1bd562c.png",
+    "static/media/aboutus_photo_2.png": "/static/media/aboutus_photo_2.5ac8452850d5662631ba.png",
+    "static/media/home_career_photo.png": "/static/media/home_career_photo.66d07e37e58f6d92c9ce.png",
+    "static/media/services_data_warehouse.png": "/static/media/services_data_warehouse.ec04cf3806d07a6d667b.png",
+    "static/media/services_aiservice.png": "/static/media/services_aiservice.507056c62c0ac3419ae1.png",
+    "static/media/services_digital_transformation.png": "/static/media/services_digital_transformation.e993250b9fc2dd1fb5a9.png",
+    "static/media/atheeslogo.jpg": "/static/media/atheeslogo.e7c2dedb4f68237d184c.jpg",
+    "static/media/data_warehouse.png": "/static/media/data_warehouse.9e084d6825074b6d3036.png",
+    "static/media/ai_services.png": "/static/media/ai_services.c9127c3b75d07b2668f7.png",
+    "index.html": "/index.html",
+    "main.a9399812.css.map": "/static/css/main.a9399812.css.map",
+    "main.e0cff131.js.map": "/static/js/main.e0cff131.js.map",
+    "787.e158f0ac.chunk.js.map": "/static/js/787.e158f0ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9399812.css",
+    "static/js/main.e0cff131.js"
+  ]
+}
